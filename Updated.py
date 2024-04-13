@@ -1,0 +1,2 @@
+def ua():
+  return "hahaha"
