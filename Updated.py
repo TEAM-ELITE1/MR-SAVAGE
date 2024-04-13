@@ -1,2 +1,2 @@
 def ua():
-  return "hahaha"
+  return "hahaha420"
