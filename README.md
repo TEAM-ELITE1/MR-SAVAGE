@@ -18,7 +18,6 @@ cd MR-SAVAGE
 chmod +x *
 
 ./XD
-
 ```
 [Note: This Tools Are Paid So You Need Permission To Use This Tools]
 
