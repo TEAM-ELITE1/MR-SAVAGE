@@ -3,10 +3,17 @@
 
 
 
+# Installation >
+
+
+
+
+[Note: This Tools Are Paid So You Need Permission To Use This Tools]
+
 # ~/ 🛠 Features:
 - 1. File Clone
 - 2. Random Numbers Clone
 - 3. Random X File called Random2.0
 - 4. Old Uid Clone
 
-[Note: This Tools Are Paid So You Need Permission To Use This Tools]
+
