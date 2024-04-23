@@ -4,7 +4,7 @@
 
 
 # ~/ 🛠 Features:
-1. File Clone
+- 1. File Clone
 2. Random Numbers Clone
 3. Random X File called Random2.0
 4. Old Uid Clone
