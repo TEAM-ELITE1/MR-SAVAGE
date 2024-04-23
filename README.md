@@ -4,10 +4,20 @@
 
 
 # Installation >
+```
+cd
 
+rm -rf MR-SAVAGE
 
+git clone --depth=1 https://github.com/TEAM-ELITE1/MR-SAVAGE
 
+cd MR-SAVAGE
 
+chmod +x *
+
+./XD
+
+```
 [Note: This Tools Are Paid So You Need Permission To Use This Tools]
 
 # ~/ 🛠 Features:
