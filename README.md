@@ -6,7 +6,7 @@
 
 
 
-# 📲 Installation >
+# 📲 Installation ⟩
 ```
 cd
 
