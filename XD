@@ -1,3 +1,7 @@
-#!/usr/bin/python3
-
-import new_64
+#!/data/data/com.termux/files/usr/bin/python
+import platform
+bit = platform.architecture()[0]
+if bit == '64bit':
+    import weed
+elif bit == '32bit':
+    print("adding")
