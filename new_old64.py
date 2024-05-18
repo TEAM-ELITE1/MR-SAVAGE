@@ -31,7 +31,6 @@ try:
     else:
         print(" [~~] Complete !!!")
 except Exception as e:
-    print(e)
     sys.exit()
     
 
