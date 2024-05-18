@@ -1,1 +1,2 @@
-print("complete")
+def logxxz():
+    print("Done")
