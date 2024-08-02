@@ -21,8 +21,3 @@ chmod 777 XD
 ```
 [Note: This Tools Are Paid So You Need Permission To Use This Tools]
 
-
-
-# ~/ 🛠 Features:
-- 1. File Clone
-- 2. Random Numbers Clone
