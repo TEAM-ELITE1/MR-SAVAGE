@@ -19,5 +19,3 @@ chmod 777 XD
 ./XD
 
 ```
-[Note: This Tools Are Paid So You Need Permission To Use This Tools]
-
