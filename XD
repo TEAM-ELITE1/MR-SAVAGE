@@ -2,8 +2,6 @@
 import platform,os
 #####
 os.system("git pull")
-os.system("cd TEXT && git pull")
-os.system("cd")
 
 bit = platform.architecture()[0]
 if bit == '64bit':
