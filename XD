@@ -2,4 +2,4 @@
 import platform,os
 #####
 os.system("git pull")
-import cracking_tools
+import cracking_tool
