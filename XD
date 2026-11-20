@@ -1,5 +1,2 @@
 #!/data/data/com.termux/files/usr/bin/python
-import platform,os
-#####
-os.system("git pull")
-import cracking_tool
+import tt
